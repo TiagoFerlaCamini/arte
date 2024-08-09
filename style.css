@@ -15,6 +15,7 @@ body{
 }
 .banner h1{
   font-size: 50px;
+  
 }
 .banner img{
   margin-top: 100px;
@@ -33,14 +34,16 @@ body{
   margin-top: 30px;
 }
 .imgs h1{
+  padding-top: 20px;
   font-size: 40px;
 }
 .imgs img{
   margin-top: 40px;
 }
 .imgs h6{
+  min-width: 505px;
   padding-top: 30px;
-  width: 50%;
+  width: 70%;
   font-size: 30px;
 }
 /* responsavidade*/
